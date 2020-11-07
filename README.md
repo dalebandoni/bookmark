@@ -1,6 +1,6 @@
 # BookMark
 
-## See the live version [here](https://limitless-crag-13210.herokuapp.com/)
+## See the live version [here](https://limitless-crag-13210.herokuapp.com/) 
 
 This is a MERN stack application. The front end is built with React, it uses Redux for state management and Styled Components for styling. 
 The front end actions make requests to a backend REST API on an Express server that is connected to a MongoDB database where each book is stored based on a Mongoose Schema.
