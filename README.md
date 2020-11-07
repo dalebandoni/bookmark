@@ -27,7 +27,7 @@ npm run server
 
 If you wish to connect BookMark to your own database, follow these instructions:
 
-1. **If you haven't already, create a cluster in MongoDB Atlas.**
+1. **If you haven't already, create a cluster in [MongoDB Atlas](https://www.mongodb.com/cloud/atlas).**
 
 2. **Click 'CONNECT' and select 'Connect your application'**
 
